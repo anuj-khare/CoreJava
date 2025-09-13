@@ -1,0 +1,9 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô78™õ¥ìŠ3
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œî¿Õ8™õ¥ìŠ3
+X	java:S125"<This block of commented-out lines of code should be removed.(ùä‰ã8ôõ¥ìŠ3
+L	java:S1066"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ûõ¥ìŠ3
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8èĞªìŠ3
+P
+java:S1144 ".Remove this unused private "sortArray" method.(Îõ©óıÿÿÿÿ8ûõ¥ìŠ3

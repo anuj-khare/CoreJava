@@ -1,0 +1,87 @@
+✅ Basic DSA Problems (Solve in Java)
+📍 Arrays
+Find the largest/smallest element in an array
+
+Reverse an array
+
+Check if array is sorted
+
+Find the second largest element
+
+Move all zeros to the end
+
+Remove duplicates from a sorted array
+
+Left rotate the array by one position
+
+Kadane’s Algorithm – Maximum subarray sum
+
+📍 Strings
+Check if a string is a palindrome
+
+Reverse a string
+
+Count vowels and consonants
+
+Check if two strings are anagrams
+
+Remove all duplicates from a string
+
+Find the first non-repeating character
+
+📍 HashMap / Frequency
+Count frequency of elements in array
+
+Find the element with maximum frequency
+
+Majority Element (> n/2 times) – Boyer-Moore
+
+Check if two arrays are equal (frequency-wise)
+
+📍 Searching
+Linear search
+
+Binary search (recursive & iterative)
+
+Find floor/ceiling of a number in sorted array
+
+Count occurrences of a number in sorted array
+
+📍 Sorting (implement manually)
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+📍 Math / Logic
+Check if a number is prime
+
+Find GCD / LCM of two numbers
+
+Check if a number is an Armstrong number
+
+Find factorial of a number (recursive + iterative)
+
+📍 Recursion (must-practice)
+Print numbers from 1 to N
+
+Print Fibonacci series up to N
+
+Calculate power of number (a^b)
+
+Check if string is palindrome using recursion
+
+📍 LinkedList (can skip if early)
+Reverse a linked list
+
+Find middle of linked list
+
+Detect loop in a linked list (Floyd’s algorithm)
+
+📍 Bonus (Bit Manipulation / Extra Logic)
+Find the only non-repeating element (every other appears twice)
+
+Check if number is power of 2
+
+Count number of 1s in binary representation

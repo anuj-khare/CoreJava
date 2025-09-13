@@ -1,0 +1,10 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Course1" 3 times.(ş˜ˆ‡8³¡Á‹3
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(â³Œß8´¡Á‹3
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â³Œß8¾¡Á‹3
+W
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(â³Œß8Á¡Á‹3
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ÎãÁ‹3

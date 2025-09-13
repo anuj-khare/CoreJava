@@ -1,0 +1,10 @@
+
+J
+java:S5411"(Use a primitive boolean expression here.(Ù‰ïşÿÿÿÿ8’ñÿŞ†3
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œî¿Õ8§şŞ†3
+G	java:S106"+Replace this use of System.out by a logger.(ëî¦ã8®Óƒß†3
+G	java:S106"+Replace this use of System.out by a logger.(Æ‡Æ8¯Óƒß†3
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²ñÿŞ†3
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8²ñÿŞ†3

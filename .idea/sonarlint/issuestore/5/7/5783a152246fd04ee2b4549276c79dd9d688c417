@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œî¿Õ8¨ãÕß†3
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹ïëØşÿÿÿÿ8­ãÕß†3
+G	java:S106"+Replace this use of System.out by a logger.(Î’ÛÚ8¾‡×ß†3

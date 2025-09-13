@@ -1,0 +1,7 @@
+
+9
+java:S1700"Rename field "smallest"(Ê«¤’øÿÿÿÿ8·”á¹†3
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œî¿Õ8¹”á¹†3
+L	java:S106"+Replace this use of System.out by a logger.(åØ£‹úÿÿÿÿ8Õ”á¹†3
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‹®å¹†3

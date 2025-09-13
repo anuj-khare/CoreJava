@@ -1,0 +1,7 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô²……þÿÿÿÿ8Ž™ƒ¡‹3
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ó‹ÚÁ8ôÕ„¡‹3
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¡™ƒ¡‹3
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8øÕ„¡‹3
