@@ -1,8 +1,8 @@
 
 7
 java:S1220""Move this file to a named package.8‰ûôè–1
-]	java:S125"<This block of commented-out lines of code should be removed.(Â“Á¢ÿÿÿÿÿ8•ûôè–1
-G	java:S106"+Replace this use of System.out by a logger.(Øº‰×8™ûôè–1
-G	java:S106"+Replace this use of System.out by a logger.(Øº‰×8øè–1
+]	java:S125;"<This block of commented-out lines of code should be removed.(Â“Á¢ÿÿÿÿÿ8•ûôè–1
+G	java:S106B"+Replace this use of System.out by a logger.(Øº‰×8™ûôè–1
+G	java:S106D"+Replace this use of System.out by a logger.(Øº‰×8øè–1
 G
 java:S1128"*Remove this unused import 'Domain.Person'.(¤¯÷¢8ƒÖÙ¹†3

@@ -71,3 +71,7 @@ V
 &src/streams/EmployeeSalarySorting.java,f\9\f9dce08643729646064c015c548af9e5cfa7a2b4
 D
 src/DSA/TestBed.java,9\a\9ab3d2bb133076c227dea6babbb5c18d2c5ccebd
+G
+src/Domain/FinTech.java,a\6\a614c50715e405aa380df34cbc50a910540d3633
+=
+src/Test.java,a\8\a862b92d10f810e224187403c322cb8e01f5e244
