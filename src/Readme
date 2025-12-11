@@ -1,0 +1,44 @@
+DSA Patterns Plan :
+
+
+Topics :
+
+1) Arrays
+2) Searching & Sorting
+3) Binary Search
+4) Recursion & Backtracking
+5) LinkedList
+6) Stack
+7) Queue
+8) Binary Tree,Binary Search Tree
+9) Heaps
+10) Hashing
+11) Dynamic Programming
+12) Graphs
+13) Cycle-Sort
+14) Prefix-Sum
+15) Sliding-Window
+16) Intervals
+17) Greedy Algorithms
+18) Line-Sweep-Algorithms
+19) MultiSet in C++
+
+
+Plan :
+
+
+1) Follow Neetcode.io's 150 questions list
+2) Line Sweep Algorithm
+   Introduction To Concept : https://youtu.be/YnIxejYW7cE?si=XlSNY8HTakOiI5VW
+   a.Minimum Intervals to include each query : LC 1851
+     Solution Link : https://youtu.be/5hQ5WWW5awQ?si=bUIeV5cbUwjL1CpF
+   b.Skyline Problem : LC 218
+     Solution Link : https://youtu.be/POUMNJou4vc?si=DXpLbdKHgMqNxijS
+   c.Perfect Rectangle : LC 391
+   d.Rectangle Area 2 : LC 850
+
+3) Cycle Sort
+   Introduction to Concept : https://youtu.be/JfinxytTYFQ?si=e_bgnh7SstWFCrEI
+   //Question to be added later
+4) Prefix Sum :
+5) MultiSets in C++
